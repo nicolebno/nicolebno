@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolebno
-- 👀 I’m interested in becoming a full-stack ddeveloper
+- 👀 I’m interested in becoming a full-stack developer
 - 🌱 Currently learning Python
 
 
